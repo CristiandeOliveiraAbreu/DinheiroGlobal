@@ -1,0 +1,7 @@
+{
+  "name": "Dinheiro Global - Trade AI Alta Performance (Versao 6)",
+  "description": "Um painel de trading de alta performance com análise técnica por IA em tempo real, acompanhamento de portfólio e métricas de desempenho.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
